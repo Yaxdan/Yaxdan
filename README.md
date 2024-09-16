@@ -1,4 +1,4 @@
-Hi, I'm @Yaxdan, a guitar player and software student
+Hi, I'm @Yaxdan, a guitarist and software student
 - 👀 I am interested in web programming
 - 🌱 I am currently learning Python, C# and JavaScript
 - 📫 Email: @yazdannajafpour2004@gmail.com
